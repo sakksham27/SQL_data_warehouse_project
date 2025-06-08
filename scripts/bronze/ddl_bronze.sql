@@ -131,5 +131,6 @@ sudo cp 'path/file_name.csv' /path_to_postgres_server/csv_import/
 Then the COPY query from /path_to_postgres_server/csv_import/file_name.csv
 
 Use: **SHOW data_directory;** for /path_to_postgres_server/
+Use: SELECT bronze.load_bronze(); to call the function bronze.load_bronze()
 
 */
