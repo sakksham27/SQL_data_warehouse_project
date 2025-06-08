@@ -1,6 +1,6 @@
 /*
 ============================================================================
-DDL script: Bronze Schema
+Load DDL script: Bronze Schema
 ============================================================================
 
 	This script defines a PostgreSQL stored function bronze.load_bronze()
